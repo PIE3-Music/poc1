@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { toRef, toRefs, useTemplateRef } from "vue";
+import { toRefs, useTemplateRef } from "vue";
 import {
   Waveform,
   type IWaveCoreOptions,
